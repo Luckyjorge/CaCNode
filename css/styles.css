@@ -94,6 +94,9 @@ ul {
 .nav_item {
   margin: 0rem 0.5rem;
 }
+.nav_item :hover{
+  color: var(--colo-primary);
+}
 .nav_link {
   padding: 0.6rem;
   color: var(--colo-dark-1);
