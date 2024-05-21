@@ -529,7 +529,18 @@ ul {
   outline: none;
   margin-top: 2rem;
 }
-
+.cart_delete{
+  cursor: pointer;
+  border: none;
+  outline: none;
+  margin-top: 2rem;
+  background-color: transparent;
+  color: var(--colo-primary);
+  font-size: 2rem;
+}
+.add_to_cart:hover {
+scale: 1.1  ;
+}
 /* Authentications */
 .auth_container {
   width: 100%;
